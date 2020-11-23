@@ -24,7 +24,7 @@ A L'époque, notre choix c'est porté sur le langage Python ce qui a été confi
 
 La première étape a été de choisir un environnement de dévellopement qui réponde au critères suivants:
 - Logiciel libre
-- Interface particulièrement simple pour ne pas perdre les élèves et les professeurs néophites.
+- Interface particulièrement simple pour ne pas perdre les élèves et les professeurs néophytes.
 - Logiciel multiplateforme facilement installable de différentes manières sous de multiples systèmes d'exploitations et matériels.
 - Logiciel activement maintenu, extensible, fournissant une documentation de qualité.
     
