@@ -50,7 +50,7 @@ while x < 10:
 
 Nous invitons le lecteur curieux à parcourir la documentation de [Pydiderotlibs](https://pydiderotlibs.readthedocs.io/) afin de découvrir les bibliothèques proposées en détail.
 
-Ces bibliothèques sont installés au lycée au présentes dans l'environement PydiderotIDE.
+Ces bibliothèques sont installés au lycée, présentes dans l'environement PydiderotIDE et hébergées sur [pypi](https://pypi.org/project/pydiderotlibs/) afin d'être facilement installables via pip.
 
 ## Pydago
 
