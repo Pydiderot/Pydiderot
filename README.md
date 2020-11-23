@@ -14,9 +14,9 @@ Toutes les productions sont sous licences libre MIT. C'est un travail collaborat
 ## Genèse
 
 Ce projet a été initié en 2018 par des enseignant du lycée Denis Diderot en se basant sur les constats suivant:
-    - Les professeurs de mathématiques doivent enseigner l'algorithmique. 
-    - Il n'éxiste pas d'outil satisfaisant pour effecture cet apprentissage confortablement.
-    - De nombreux collègues dévouvrent l'algorithmique.
+- Les professeurs de mathématiques doivent enseigner l'algorithmique. 
+- Il n'éxiste pas d'outil satisfaisant pour effecture cet apprentissage confortablement.
+- De nombreux collègues dévouvrent l'algorithmique.
     
 A L'époque, notre choix c'est porté sur le langage Python ce qui a été confirmé par les nouveaux programmes de 2019.
 
