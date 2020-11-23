@@ -5,7 +5,7 @@ Apprendre et enseigner python
 Le projet Pydiderot fournit et documente des outils pour l'enseignement et l'apprentissage de l'algorithmique dans le secondaire.
 
 Il est organisé en 3 volets:
-- Un environement de dévellopement [PydiderotIDE](https://github.com/Pydiderot/pydiderotIDE)
+- Un environement de dévellopement [PydiderotIDE](https://pydiderotide.readthedocs.io/)
 - Des bibliothèques [Pydiderotlibs](https://pydiderotlibs.readthedocs.io/)
 - Des documents ressources pour les professeurs [Pydago](https://github.com/Pydiderot/pydago)
 
