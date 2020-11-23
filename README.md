@@ -9,7 +9,7 @@ Il est organisé en 3 volets:
 - Des bibliothèques [Pydiderotlibs](https://pydiderotlibs.readthedocs.io/)
 - Des documents ressources pour les professeurs [Pydago](https://github.com/Pydiderot/pydago)
 
-Toutes les productions sont sous licences libre MIT. C'est un travail collaboratif dont les discussions et choix sont publiques. 
+Toutes les productions sont sous licences libre MIT. C'est un travail collaboratif dont les discussions et choix sont publics. 
 
 ## Genèse
 
